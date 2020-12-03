@@ -13,12 +13,19 @@ This is sample api to users manager.
 - Rspec
 
 * Database creation
+
+    ```
     rails db:create
+    ```
 
 * Database initialization
+    ```
     rails db:migrate
     rails db:seed
+    ```
 
 * How to run the test suite
+    ```
     bundle exec rspec spec
+    ```
 
