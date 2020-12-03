@@ -1,24 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is sample api to users manager.
 
-Things you may want to cover:
+* Ruby version 2.7.2
 
-* Ruby version
-
-* System dependencies
+* Rails version 6.0.3.4
 
 * Configuration
+- Postgresql
+- Devise Token Auth
+- Pundit
+- Rspec
 
 * Database creation
+    rails db:create
 
 * Database initialization
+    rails db:migrate
+    rails db:seed
 
 * How to run the test suite
+    bundle exec rspec spec
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
