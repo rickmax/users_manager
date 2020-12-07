@@ -38,11 +38,11 @@ group :development, :test do
   gem 'rspec-expectations' 
   gem 'rspec-mocks' 
   gem 'rspec-support'
+  gem 'faker'
 end
 
 group :test do
   gem 'factory_bot_rails'
-  gem 'faker'
   gem 'database_cleaner'
 end
 
