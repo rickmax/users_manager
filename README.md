@@ -28,4 +28,6 @@ This is sample api to users manager.
     ```
     bundle exec rspec spec
     ```
+* Docs
 
+https://documenter.getpostman.com/view/2980808/TVmS6ugt
